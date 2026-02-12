@@ -78,7 +78,7 @@ Cybersecurity enthusiast focused on:
 - Real-world attack scenarios  
 - Continuous learning through practice  
 
-📫 Connect with me on **LinkedIn**  https://www.linkedin.com/in/abdelbasset-benghina-512144124/?skipRedirect=true /n
+📫 Connect with me on **LinkedIn**  https://www.linkedin.com/in/abdelbasset-benghina-512144124/?skipRedirect=true </br>
 🧪 Platforms: TryHackMe | Hack The Box | Bugcrowd | HackerOne
 
 ---
